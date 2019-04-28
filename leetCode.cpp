@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string.h>
+
 using namespace std;
 
 /*
@@ -90,6 +91,6 @@ int romanToInt(string s)
 
 int main(int argc, char const *argv[])
 {
-	cout << "LeetCode 练习:" << romanToInt("VI") << endl;
+	cout << "LeetCode 练习:" << romanToInt("VII") << endl;
 	return 0;
 }
